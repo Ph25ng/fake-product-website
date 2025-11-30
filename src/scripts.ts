@@ -1,0 +1,1 @@
+const checkout: string = "Hi"
